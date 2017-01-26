@@ -1,6 +1,14 @@
+h1,h2 {
+	font-family:'Georgia', Times, Times New Roman, serif;
+}
+
+h3,p {
+	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
 #myName {
 	text-align: left;
-	color: #4aaaa5;
+	color: white;
 }
 
 #Menu {
@@ -18,8 +26,36 @@
 	color: #4aaaa5;
 }
 
-#rectangle{
+#Rectangle {
     width:200px;
     height:100px;
     background: #4aaaa5;
+}
+
+#Rectangle2{
+	top: 0;
+	width:600px;
+	height:20px;
+}
+
+#Rectangle3 {
+	bottom: 0;
+	width: 600px;
+	height: 20px;
+}
+
+#ContactHeader {
+	text-align: left;
+	color: #4aaaa5;
+}
+
+#Copyright {
+	font-size: 8;
+	text-align: center;
+	color: #f3f3f3;
+}
+
+#ConnectionImages {
+	width: 60px;
+	height: 60px;
 }
