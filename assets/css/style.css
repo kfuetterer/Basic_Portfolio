@@ -1,0 +1,25 @@
+#myName {
+	text-align: left;
+	color: #4aaaa5;
+}
+
+#Menu {
+	text-align: right;
+	color: gray;
+}
+
+#Title {
+	text-align: left;
+	color: #4aaaa5;
+}
+
+#Connections {
+	text-align: right;
+	color: #4aaaa5;
+}
+
+#rectangle{
+    width:200px;
+    height:100px;
+    background: #4aaaa5;
+}
